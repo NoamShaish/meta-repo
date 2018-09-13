@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "meta-project-1": "git@github.com:NoamShaish/meta-project-1.git",
+    "meta-project-2": "git@github.com:NoamShaish/meta-project-2.git"
+  }
+}
